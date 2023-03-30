@@ -1,0 +1,62 @@
+[
+{
+"id":"1",
+"name":"Kaanha",
+"email":"kaanha@gmail.com",
+"location":"mira road"
+},
+{
+"id":"2",
+"name":"Radha",
+"email":"radha@gmail.com",
+"location":"mira road"
+},
+{
+"id":"3",
+"name":"Govind",
+"email":"govind@gmail.com",
+"location":"mira road"
+},
+{
+"id":"4",
+"name":"Bhavana",
+"email":"bhavana@gmail.com",
+"location":"mira road"
+},
+{
+"id":"5",
+"name":"Aman",
+"email":"aman@gmail.com",
+"location":"mira road"
+},
+{
+"id":"6",
+"name":"Khushi",
+"email":"khushi@gmail.com",
+"location":"mira road"
+},
+{
+"id":"7",
+"name":"Ayush",
+"email":"ayush@gmail.com",
+"location":"mira road"
+},
+{
+"id":"8",
+"name":"Prachi",
+"email":"prachi@gmail.com",
+"location":"mira road"
+},
+{
+"id":"9",
+"name":"Shivam",
+"email":"shivam@gmail.com",
+"location":"mira road"
+},
+{
+"id":"10",
+"name":"Tanvi",
+"email":"tanvi@gmail.com",
+"location":"mira road"
+}
+]
